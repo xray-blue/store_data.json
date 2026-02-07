@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "101",
+      "title": "سماعة Apple AirPods Pro",
+      "description": "سماعة أصلية، مستعملة نظيفة جداً، مع العلبة وكامل الملحقات.",
+      "price": 185000,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=1144&hei=1144&fmt=jpeg",
+      "category": "electronics",
+      "contact": "07701234567",
+      "isNew": false
+    },
+    {
+      "id": "102",
+      "title": "ملازم تشريح مرحلة أولى",
+      "description": "مجموعة كاملة لمادة التشريح، مؤشرة بملاحظات مهمة.",
+      "price": 5000,
+      "image": "https://m.media-amazon.com/images/I/71pX+1-k+AL._AC_UF1000,1000_QL80_.jpg",
+      "category": "books",
+      "contact": "07801234567",
+      "isNew": true
+    }
+  ]
+}
