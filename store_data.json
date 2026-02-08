@@ -4,7 +4,7 @@
       "id": "101",
       "title": "سماعة Apple AirPods Pro",
       "description": "سماعة أصلية، مستعملة نظيفة جداً، مع العلبة وكامل الملحقات.",
-      "price": 185000,
+      "price": 18500,
       "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MQD83?wid=1144&hei=1144&fmt=jpeg",
       "category": "electronics",
       "contact": "07701234567",
@@ -19,6 +19,25 @@
       "category": "books",
       "contact": "07801234567",
       "isNew": true
-    }
+    },
+    {
+      "id": "103",
+      "title": "ساعة سمارت مستعملة",
+      "description": "ساعة سمارت فد شيء.",
+      "price": 15000,
+      "image": "https://jawharataliraq.com.iq/cdn/shop/files/image_6588fcd4-71a0-407a-b934-353184dfd2ea.jpg?v=1690467118&width=370",
+      "category": "gifts",
+      "contact": "07801234567",
+      "isNew": true
+    },
+     {
+      "id": "104",
+      "title": "قلم جاف اصلي",
+      "description": "إذا أردت أنت تعمل تطبيق إعلانات يمنح المستخدم رصيد أو نقاط، فهناك فوائد مباشرة وغير مباشرة لك:",
+      "price": 1500,
+      "image": "https://cdn.salla.sa/DPxbG/b756f253-1f97-4cd5-b276-1197ce8da7c3-1000x1000-ZpgdlsiEzq7pZyV3JfoPonnDYGWk6Ghkp5EHB0se.jpg",
+      "category": "stationery",
+      "contact": "07801234567",
+      "isNew": true
   ]
 }
