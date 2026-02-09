@@ -5,15 +5,37 @@
     "min_version": "1.0.0"
   },
   "blocked_users": [
-    "banned_student@gmail.com",
-    "cheater@example.com"
+    "banned_student@gmail.com"
   ],
   "subscribers": {
-    "student@gmail.com": {
+    "gemini@gmail.com": {
       "activation_code": "123456",
-      "plan": "CUSTOM",
+      "plan": "FULL_ACCESS",
       "wallet_gift": 0,
       "tools": {
+        "__COMMENT_MAIN__": "=== القوائم الرئيسية ===",
+        "schedule": true,
+        "lectures": true,
+        "grades": true,
+        "attendance": true,
+        "notes": true,
+        "study": true,
+        "tests": true,
+        "tuition": true,
+        "expenses": true,
+        "diary": true,
+        "ai": true,
+        "vault": true,
+        "games": true,
+        "wheel": true,
+        "challenges": true,
+        "countdown": true,
+        "id-card": true,
+        "marketplace": true,
+        "creator": true,
+        "settings": true,
+
+        "__COMMENT_MAGIC__": "=== الأدوات السحرية ===",
         "SCI_CALC": true,
         "GRAPH_PLOTTER": true,
         "CIPHER": true,
@@ -41,8 +63,29 @@
     },
     "ali@gmail.com": {
       "activation_code": "VIP2024",
-      "plan": "BASIC",
+      "plan": "NEW_USER",
       "tools": {
+        "schedule": true,
+        "lectures": true,
+        "grades": true,
+        "attendance": false,
+        "notes": true,
+        "study": false,
+        "tests": false,
+        "tuition": false,
+        "expenses": true,
+        "diary": false,
+        "ai": false,
+        "vault": false,
+        "games": false,
+        "wheel": false,
+        "challenges": false,
+        "countdown": false,
+        "id-card": true,
+        "marketplace": true,
+        "creator": false,
+        "settings": true,
+
         "SCI_CALC": true,
         "GRAPH_PLOTTER": false,
         "CIPHER": false,
