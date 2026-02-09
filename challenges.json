@@ -6,17 +6,10 @@
       "difficulty": "easy",
       "reward": 100,
       "icon": "fa-share-nodes",
-      "validCodes": ["SHARE2025", "GROUP1"],
-      "approved_users": ["fg@fg.com", "Zahra"]
-    },
-    {
-      "id": "challenge_full_mark",
-      "title": "حصلت على درجة كاملة في الكويز؟",
-      "difficulty": "hard",
-      "reward": 500,
-      "icon": "fa-star",
-      "validCodes": [],
-      "approved_users": ["Ahmed Ali", "Zahra"]
+      "approved_users": [
+        "student@gmail.com",
+        "ali2024@example.com"
+      ]
     },
     {
       "id": "challenge_workout",
@@ -24,16 +17,14 @@
       "difficulty": "medium",
       "reward": 250,
       "icon": "fa-dumbbell",
-      "validCodes": ["GYM_BEAST"],
       "approved_users": []
     },
     {
       "id": "challenge_reading",
-      "title": "قراءة كتاب خارجي (غير منهجي)",
+      "title": "قراءة كتاب خارجي",
       "difficulty": "medium",
       "reward": 300,
       "icon": "fa-book-open-reader",
-      "validCodes": [],
       "approved_users": []
     },
     {
@@ -42,7 +33,6 @@
       "difficulty": "easy",
       "reward": 50,
       "icon": "fa-mug-hot",
-      "validCodes": ["COFFEE_LOVER"],
       "approved_users": []
     }
   ]
