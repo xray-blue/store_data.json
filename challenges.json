@@ -1,52 +1,49 @@
 {
   "challenges": [
     {
-      "id": "easy_01",
-      "title": "اركص بالشارع",
+      "id": "challenge_share_1",
+      "title": "انشر التطبيق في جروب الدفعة",
       "difficulty": "easy",
-      "reward": 50,
-      "icon": "fa-calendar-check",
-      "validCodes": ["EZ101", "EZ102", "EZ103", "EZ104", "EZ105"]
+      "reward": 100,
+      "icon": "fa-share-nodes",
+      "validCodes": ["SHARE2025", "GROUP1"],
+      "approved_users": []
     },
     {
-      "id": "easy_02",
-      "title": "نام بالشراع",
-      "difficulty": "easy",
-      "reward": 50,
-      "icon": "fa-book-open",
-      "validCodes": ["READ1", "READ2", "READ3", "READ4", "READ5"]
-    },
-    {
-      "id": "medium_01",
-      "title": "إتمام جلسة دراسة 25 دقيقة",
-      "difficulty": "medium",
-      "reward": 150,
-      "icon": "fa-clock",
-      "validCodes": ["TIME1", "TIME2", "TIME3", "TIME4", "TIME5"]
-    },
-    {
-      "id": "medium_02",
-      "title": "إضافة 3 مصاريف في السجل",
-      "difficulty": "medium",
-      "reward": 150,
-      "icon": "fa-wallet",
-      "validCodes": ["CASH1", "CASH2", "CASH3", "CASH4", "CASH5"]
-    },
-    {
-      "id": "hard_01",
-      "title": "الحصول على درجة كاملة في اختبار",
+      "id": "challenge_full_mark",
+      "title": "حصلت على درجة كاملة في الكويز؟",
       "difficulty": "hard",
-      "reward": 300,
+      "reward": 500,
       "icon": "fa-star",
-      "validCodes": ["TOP10", "TOP20", "TOP30", "TOP40", "TOP50"]
+      "validCodes": [],
+      "approved_users": ["Ahmed Ali", "Zahra"]
     },
     {
-      "id": "hard_02",
-      "title": "تلخيص محاضرة كاملة وإرسالها",
-      "difficulty": "hard",
+      "id": "challenge_workout",
+      "title": "صورة من الجيم (حياة صحية)",
+      "difficulty": "medium",
+      "reward": 250,
+      "icon": "fa-dumbbell",
+      "validCodes": ["GYM_BEAST"],
+      "approved_users": []
+    },
+    {
+      "id": "challenge_reading",
+      "title": "قراءة كتاب خارجي (غير منهجي)",
+      "difficulty": "medium",
       "reward": 300,
-      "icon": "fa-pen-fancy",
-      "validCodes": ["WRIT1", "WRIT2", "WRIT3", "WRIT4", "WRIT5"]
+      "icon": "fa-book-open-reader",
+      "validCodes": [],
+      "approved_users": []
+    },
+    {
+      "id": "challenge_coffee",
+      "title": "صورة قهوتك الصباحية",
+      "difficulty": "easy",
+      "reward": 50,
+      "icon": "fa-mug-hot",
+      "validCodes": ["COFFEE_LOVER"],
+      "approved_users": []
     }
   ]
 }
