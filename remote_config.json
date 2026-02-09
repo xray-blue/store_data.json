@@ -1,1 +1,72 @@
-
+{
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "نحن في صيانة حالياً، سنعود قريباً",
+    "min_version": "1.0.0"
+  },
+  "blocked_users": [
+    "banned_student@gmail.com",
+    "cheater@example.com"
+  ],
+  "subscribers": {
+    "student@gmail.com": {
+      "activation_code": "123456",
+      "plan": "CUSTOM",
+      "wallet_gift": 0,
+      "tools": {
+        "SCI_CALC": true,
+        "GRAPH_PLOTTER": true,
+        "CIPHER": true,
+        "STEGANOGRAPHY": true,
+        "MED_DICT": true,
+        "REF_FINDER": true,
+        "CHAT_SIMULATOR": true,
+        "TIME_CAPSULE": true,
+        "TASBEEH": true,
+        "LIE_DETECTOR": true,
+        "FACE_SCAN": true,
+        "WHO_PAYS": true,
+        "MEME": true,
+        "BMI": true,
+        "LOVE": true,
+        "FAKE_CALL": true,
+        "MIRROR": true,
+        "LUCK": true,
+        "BREATHE": true,
+        "AGE": true,
+        "WATER": true,
+        "AWKWARD_LOG": true,
+        "COMPLIMENTS": true
+      }
+    },
+    "ali@gmail.com": {
+      "activation_code": "VIP2024",
+      "plan": "BASIC",
+      "tools": {
+        "SCI_CALC": true,
+        "GRAPH_PLOTTER": false,
+        "CIPHER": false,
+        "STEGANOGRAPHY": false,
+        "MED_DICT": true,
+        "REF_FINDER": true,
+        "CHAT_SIMULATOR": false,
+        "TIME_CAPSULE": false,
+        "TASBEEH": true,
+        "LIE_DETECTOR": false,
+        "FACE_SCAN": false,
+        "WHO_PAYS": false,
+        "MEME": false,
+        "BMI": true,
+        "LOVE": false,
+        "FAKE_CALL": false,
+        "MIRROR": false,
+        "LUCK": true,
+        "BREATHE": true,
+        "AGE": true,
+        "WATER": true,
+        "AWKWARD_LOG": false,
+        "COMPLIMENTS": true
+      }
+    }
+  }
+}
