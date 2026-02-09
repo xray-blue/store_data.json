@@ -7,7 +7,7 @@
       "reward": 100,
       "icon": "fa-share-nodes",
       "validCodes": ["SHARE2025", "GROUP1"],
-      "approved_users": []
+      "approved_users": [د.حامد]
     },
     {
       "id": "challenge_full_mark",
