@@ -2,7 +2,7 @@
   "challenges": [
     {
       "id": "ch_1",
-      "title": "شرب 3 لتر ماء",
+      "title": "صور راسك كامل",
       "difficulty": "easy",
       "reward": 100,
       "icon": "fa-glass-water",
@@ -10,7 +10,7 @@
     },
     {
       "id": "ch_2",
-      "title": "شرب 50 لتر ماء",
+      "title": "صور خشمك",
       "difficulty": "easy",
       "reward": 1000,
       "icon": "fa-glass-water",
