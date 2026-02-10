@@ -7,6 +7,14 @@
       "reward": 100,
       "icon": "fa-glass-water",
       "approved_users": []
+    },
+    {
+      "id": "ch_1",
+      "title": "شرب 50 لتر ماء",
+      "difficulty": "easy",
+      "reward": 1000,
+      "icon": "fa-glass-water",
+      "approved_users": []
     }
   ],
   "coins": [
