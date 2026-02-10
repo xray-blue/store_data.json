@@ -1,39 +1,34 @@
 {
   "challenges": [
     {
-      "id": "challenge_share_1",
-      "title": "انشر التطبيق في جروب الدفعة",
+      "id": "ch_1",
+      "title": "شرب 3 لتر ماء",
       "difficulty": "easy",
       "reward": 100,
-      "icon": "fa-share-nodes",
-      "approved_users": [
-        "krar@gmail.com",
-        "ali2024@example.com"
-      ]
-    },
-    {
-      "id": "challenge_workout",
-      "title": "صورة من الجيم (حياة صحية)",
-      "difficulty": "medium",
-      "reward": 250,
-      "icon": "fa-dumbbell",
+      "icon": "fa-glass-water",
       "approved_users": []
     },
     {
-      "id": "challenge_reading",
-      "title": "قراءة كتاب خارجي",
+      "id": "ch_2",
+      "title": "قراءة 20 صفحة",
       "difficulty": "medium",
       "reward": 300,
-      "icon": "fa-book-open-reader",
+      "icon": "fa-book-open",
       "approved_users": []
+    }
+  ],
+  "coins": [
+    {
+      "id": "gift_101",
+      "email": "ضع_ايميل_الطالب_هنا@example.com",
+      "amount": 5000,
+      "note": "هدية الفوز بالمسابقة"
     },
     {
-      "id": "challenge_coffee",
-      "title": "صورة قهوتك الصباحية",
-      "difficulty": "easy",
-      "reward": 50,
-      "icon": "fa-mug-hot",
-      "approved_users": []
+      "id": "gift_102",
+      "email": "another_student@gmail.com",
+      "amount": 1000,
+      "note": "مكافأة نشاط"
     }
   ]
 }
