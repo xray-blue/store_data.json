@@ -2,7 +2,7 @@
   "challenges": [
     {
       "id": "ch_1",
-      "title": "اعمل صورة قلب في يدك",
+      "title": "شرب 3 لتر ماء",
       "difficulty": "easy",
       "reward": 100,
       "icon": "fa-glass-water",
@@ -18,9 +18,24 @@
   ],
   "promo_codes": [
     { "code": "START100", "amount": 100, "active": true },
-    { "code": "GIFT2025", "amount": 100, "active": true },
-    { "code": "RAD100", "amount": 100, "active": true },
-    { "code": "MARK100", "amount": 100, "active": true },
-    { "code": "LUCKY500", "amount": 500, "active": true }
+    { "code": "GIFT2025", "amount": 100, "active": true }
+  ],
+  "inbox": [
+    {
+      "id": "msg_1",
+      "email": "student@example.com",
+      "title": "كود خاص بك",
+      "message": "شكراً لجهودك! هذا كود خاص لك بقيمة 1000 عملة: SUPER1000",
+      "icon": "fa-gift",
+      "color": "text-pink-500"
+    },
+    {
+      "id": "msg_2",
+      "email": "another@gmail.com",
+      "title": "تنبيه إداري",
+      "message": "يرجى مراجعة القسم لاستلام هديتك.",
+      "icon": "fa-bullhorn",
+      "color": "text-yellow-500"
+    }
   ]
 }
