@@ -2,35 +2,35 @@
   "books": [
     {
       "id": "101",
-      "title": "Medical Physiology - Guyton & Hall",
+      "title": "لا يوجد منتج حاليا",
       "subject": "فسلجة",
       "condition": "good",
       "type": "SALE",
       "price": 25000,
-      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924074i/202734.jpg",
-      "owner": "محمد حسن",
+      "image": "",
+      "owner": "مجهول",
       "contact": "07700000000",
       "date": 1709251200000
     },
     {
       "id": "102",
-      "title": "ملازم تشريح نظري (كاملة)",
+      "title": "",
       "subject": "تشريح",
       "condition": "like_new",
       "type": "FREE",
-      "image": "https://i.pinimg.com/736x/94/71/0c/94710ceda5ce7f4a61770a1528218579.jpg",
+      "image": "",
       "owner": "فاعل خير",
       "contact": "07800000000",
       "date": 1709300000000
     },
     {
       "id": "103",
-      "title": "اطلس Netter's Anatomy",
+      "title": "",
       "subject": "تشريح",
       "condition": "fair",
       "type": "EXCHANGE",
-      "image": "https://d2y8liyagvllvg.cloudfront.net/images/productdetails/netteran7_big.png",
-      "owner": "علي العراقي",
+      "image": "",
+      "owner": "فاعل خير",
       "contact": "07500000000",
       "date": 1709400000000
     }
