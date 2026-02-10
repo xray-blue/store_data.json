@@ -31,7 +31,7 @@
   "inbox": [
     {
       "id": "msg_1",
-      "email": "s@f.c",
+      "email": "",
       "title": "كود خاص بك",
       "message": "شكراً لجهودك! هذا كود خاص لك بقيمة 1000 عملة: SUPER1000",
       "icon": "fa-gift",
@@ -39,7 +39,7 @@
     },
     {
       "id": "msg_2",
-      "email": "sd@g.c",
+      "email": "s@f.c",
       "title": "تنبيه إداري",
       "message": "يرجى مراجعة القسم لاستلام هديتك.",
       "icon": "fa-bullhorn",
