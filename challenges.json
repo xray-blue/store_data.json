@@ -2,33 +2,25 @@
   "challenges": [
     {
       "id": "ch_1",
-      "title": "صور راسك الازرق",
+      "title": "اعمل صورة قلب في يدك",
       "difficulty": "easy",
       "reward": 100,
       "icon": "fa-glass-water",
-      "approved_users": []
-    },
-    {
-      "id": "ch_2",
-      "title": "قراءة 20 صفحة",
-      "difficulty": "medium",
-      "reward": 300,
-      "icon": "fa-book-open",
       "approved_users": []
     }
   ],
   "coins": [
     {
       "id": "gift_101",
-      "email": "s@gmail.c",
-      "amount": 5000,
-      "note": "هدية الفوز بالمسابقة"
-    },
-    {
-      "id": "gift_102",
-      "email": "another_student@gmail.com",
-      "amount": 1000,
-      "note": "مكافأة نشاط"
+      "email": "student@example.com",
+      "amount": 5000
     }
+  ],
+  "promo_codes": [
+    { "code": "START100", "amount": 100, "active": true },
+    { "code": "GIFT2025", "amount": 100, "active": true },
+    { "code": "RAD100", "amount": 100, "active": true },
+    { "code": "MARK100", "amount": 100, "active": true },
+    { "code": "LUCKY500", "amount": 500, "active": true }
   ]
 }
