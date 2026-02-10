@@ -2,7 +2,7 @@
   "challenges": [
     {
       "id": "ch_1",
-      "title": "صور راسك كامل",
+      "title": "ثبت التطبيق في 3 هواتف",
       "difficulty": "easy",
       "reward": 100,
       "icon": "fa-glass-water",
@@ -10,9 +10,9 @@
     },
     {
       "id": "ch_2",
-      "title": "صور خشمك",
+      "title": "اكتب سورة الفاتحة والاخلاص والفلقتين بخط اليد",
       "difficulty": "easy",
-      "reward": 1000,
+      "reward": 100,
       "icon": "fa-glass-water",
       "approved_users": []
     }
