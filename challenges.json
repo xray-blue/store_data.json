@@ -26,14 +26,14 @@
   ],
   "promo_codes": [
     { "code": "START100", "amount": 100, "active": true },
-    { "code": "GIFT2025", "amount": 100, "active": true }
+    { "code": "GIFT2025", "amount": 900, "active": true }
   ],
   "inbox": [
     {
       "id": "msg_1",
-      "email": "",
+      "email": "zano3mad@gmail.com",
       "title": "كود خاص بك",
-      "message": "شكراً لجهودك! هذا كود خاص لك بقيمة 100 عملة: START100",
+      "message": "لان انتي احلى الزركات هاج هذه الكود: GIFT2025",
       "icon": "fa-gift",
       "color": "text-pink-500"
     },
