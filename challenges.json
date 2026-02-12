@@ -2,7 +2,7 @@
   "challenges": [
     {
       "id": "ch_1",
-      "title": "ثبت التطبيق في 3 هواتف",
+      "title": "اقراء سورة القمر وارسل الاثبات",
       "difficulty": "easy",
       "reward": 100,
       "icon": "fa-glass-water",
@@ -10,7 +10,15 @@
     },
     {
       "id": "ch_2",
-      "title": "اكتب سورة الفاتحة والاخلاص والفلقتين بخط اليد",
+      "title": "اعطي من جيبك زكاه قيمتها ربع دينار",
+      "difficulty": "easy",
+      "reward": 100,
+      "icon": "fa-glass-water",
+      "approved_users": []
+    },
+    {
+      "id": "ch_3",
+      "title": "استغفرالله 500 مره",
       "difficulty": "easy",
       "reward": 100,
       "icon": "fa-glass-water",
@@ -25,8 +33,8 @@
     }
   ],
   "promo_codes": [
-    { "code": "START100", "amount": 100, "active": true },
-    { "code": "GIFT2025", "amount": 900, "active": true }
+    { "code": "BLUEGIRL", "amount": 100, "active": true },
+    { "code": "GIFT2020", "amount": 100, "active": true }
   ],
   "inbox": [
     {
