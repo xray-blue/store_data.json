@@ -53,5 +53,19 @@
       "icon": "fa-bullhorn",
       "color": "text-yellow-500"
     }
+],
+    "announcements": [
+    {
+      "id": "anno_1",
+      "title": "تحديث جديد!",
+      "body": "تم إضافة تحديات جديدة في قسم التحديات، شارك الآن واربح!",
+      "active": true
+    },
+    {
+      "id": "anno_2",
+      "title": "تنبيه هام",
+      "body": "تم تفعيل قسم المتجر، يمكنك الآن عرض منتجاتك.",
+      "active": true
+    }
   ]
 }
