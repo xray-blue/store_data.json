@@ -2,23 +2,7 @@
   "challenges": [
     {
       "id": "ch_1",
-      "title": "اقراء سورة القمر وارسل الاثبات",
-      "difficulty": "easy",
-      "reward": 100,
-      "icon": "fa-glass-water",
-      "approved_users": []
-    },
-    {
-      "id": "ch_2",
-      "title": "اعطي من جيبك زكاه قيمتها ربع دينار",
-      "difficulty": "easy",
-      "reward": 100,
-      "icon": "fa-glass-water",
-      "approved_users": []
-    },
-    {
-      "id": "ch_3",
-      "title": "استغفرالله 500 مره",
+      "title": "شرب 3 لتر ماء",
       "difficulty": "easy",
       "reward": 100,
       "icon": "fa-glass-water",
@@ -28,44 +12,37 @@
   "coins": [
     {
       "id": "gift_101",
-      "email": "",
-      "amount": 50000
+      "email": "student@example.com",
+      "amount": 5000
     }
   ],
   "promo_codes": [
-    { "code": "BLUEGIRL", "amount": 100, "active": true },
-    { "code": "GIFT2020", "amount": 100, "active": true }
+    { "code": "START100", "amount": 100, "active": true },
+    { "code": "GIFT2025", "amount": 100, "active": true }
   ],
   "inbox": [
     {
       "id": "msg_1",
-      "email": "zano3mad@gmail.com",
+      "email": "student@example.com",
       "title": "كود خاص بك",
-      "message": "هيج بكيفي اوزع: GIFT2020",
+      "message": "شكراً لجهودك! هذا كود خاص لك بقيمة 1000 عملة: SUPER1000",
       "icon": "fa-gift",
       "color": "text-pink-500"
-    },
-    {
-      "id": "msg_2",
-      "email": "mark@gmail.com",
-      "title": "تنبيه إداري",
-      "message": "يرجى مراجعة القسم لاستلام هديتك.",
-      "icon": "fa-bullhorn",
-      "color": "text-yellow-500"
     }
-],
-    "announcements": [
+  ],
+  "announcements": [
     {
-      "id": "anno_1",
-      "title": "تحديث جديد!",
-      "body": "تم إضافة تحديات جديدة في قسم التحديات، شارك الآن واربح!",
+      "id": "anno_global",
+      "title": "للجميع",
+      "body": "هذا إشعار يصل لكل الطلاب لأننا لم نحدد إيميلات.",
       "active": true
     },
     {
-      "id": "anno_2",
-      "title": "تنبيه هام",
-      "body": "تم تفعيل قسم المتجر، يمكنك الآن عرض منتجاتك.",
-      "active": true
+      "id": "anno_private_1",
+      "title": "خاص لك",
+      "body": "أنت من الطلاب المميزين وتم اختيارك!",
+      "active": true,
+      "target_emails": ["student1@gmail.com", "ali@yahoo.com"]
     }
   ]
 }
