@@ -1,0 +1,58 @@
+{
+  "tasks": [
+    {
+      "id": "daily_login",
+      "title": "تسجيل الدخول اليومي",
+      "xp": 10,
+      "coins": 50,
+      "icon": "fa-calendar-check",
+      "color": "text-green-500",
+      "auto": true
+    },
+    {
+      "id": "read_lecture",
+      "title": "قراءة محاضرة واحدة",
+      "xp": 20,
+      "coins": 100,
+      "icon": "fa-book-open",
+      "color": "text-blue-500",
+      "auto": false
+    },
+    {
+      "id": "drink_water",
+      "title": "شرب 4 أكواب ماء",
+      "xp": 15,
+      "coins": 50,
+      "icon": "fa-glass-water",
+      "color": "text-cyan-500",
+      "auto": false
+    },
+    {
+      "id": "solve_quiz",
+      "title": "حل اختبار سريع",
+      "xp": 30,
+      "coins": 150,
+      "icon": "fa-clipboard-question",
+      "color": "text-purple-500",
+      "auto": false
+    },
+    {
+      "id": "add_expense",
+      "title": "تسجيل مصروف اليوم",
+      "xp": 10,
+      "coins": 50,
+      "icon": "fa-wallet",
+      "color": "text-yellow-500",
+      "auto": false
+    },
+    {
+      "id": "study_focus",
+      "title": "جلسة تركيز 25 دقيقة",
+      "xp": 50,
+      "coins": 200,
+      "icon": "fa-clock",
+      "color": "text-indigo-500",
+      "auto": false
+    }
+  ]
+}
