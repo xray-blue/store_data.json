@@ -1,0 +1,8 @@
+{
+  "promo_codes": [
+    { "code": "START1000", "amount": 1000, "active": true },
+    { "code": "GIFT2025", "amount": 500, "active": true },
+    { "code": "WELCOME", "amount": 250, "active": true },
+    { "code": "RICH", "amount": 5000, "active": true }
+  ]
+}
