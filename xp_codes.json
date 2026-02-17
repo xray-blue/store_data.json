@@ -1,0 +1,9 @@
+{
+  "codes": [
+    { "code": "LEVELUP2025", "xp": 500, "active": true },
+    { "code": "BOOST100", "xp": 100, "active": true },
+    { "code": "SUPER_STUDENT", "xp": 1000, "active": true },
+    { "code": "EXP50", "xp": 50, "active": true },
+    { "code": "START_JOURNEY", "xp": 200, "active": true }
+  ]
+}
