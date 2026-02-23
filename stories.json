@@ -1,0 +1,42 @@
+[
+  {
+    "id": "story_adv_01",
+    "title": "رحلة إلى قمة الاشيء المفقود",
+    "type": "adventure",
+    "price": 5,
+    "backgroundImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000&auto=format&fit=crop",
+    "content": "في يوم من الأيام، قرر المغامر الشجاع أحمد تسلق الجبل الذي لم يجرؤ أحد على الاقتراب منه..."
+  },
+  {
+    "id": "story_funny_01",
+    "title": "القطة التي تظن أنها نمر",
+    "type": "funny",
+    "price": 3,
+    "backgroundImage": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=1000&auto=format&fit=crop",
+    "content": "كانت هناك قطة صغيرة تدعى 'مشمش'، كانت تعتقد جازمة أنها نمر شرس..."
+  },
+  {
+    "id": "story_scary_01",
+    "title": "البيت المهجور في آخر الشارع",
+    "type": "scary",
+    "price": 6,
+    "backgroundImage": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?q=80&w=1000&auto=format&fit=crop",
+    "content": "يقولون أن البيت في آخر الشارع مسكون، لكن لم يصدق أحد حتى دخلت المجموعة..."
+  },
+  {
+    "id": "story_horror_01",
+    "title": "الظلال التي تهمس",
+    "type": "horror",
+    "price": 1,
+    "backgroundImage": "https://images.unsplash.com/photo-1505635552518-3448ff116af3?q=80&w=1000&auto=format&fit=crop",
+    "content": "لم يكن الظلام هو ما يخيفه، بل ما كان يتحرك داخله..."
+  },
+  {
+    "id": "story_random_01",
+    "title": "يوم في حياة رائد فضاء",
+    "type": "random",
+    "price": 4,
+    "backgroundImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1000&auto=format&fit=crop",
+    "content": "الاستيقاظ في محطة الفضاء الدولية ليس كأي استيقاظ آخر..."
+  }
+]
